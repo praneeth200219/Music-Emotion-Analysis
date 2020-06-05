@@ -14,8 +14,13 @@ Run the following commands on the terminal
 
 pip install librosa soundfile numpy sklearn pyaudio
 
-cd Desktop
+C:\Users\praneeth>cd Desktop
 
-cd Music Database
+C:\Users\praneeth\Desktop>cd "Music Database"
 
-jupyter notebook
+C:\Users\praneeth\Desktop\Music Database>jupyter notebook
+
+
+
+
+
