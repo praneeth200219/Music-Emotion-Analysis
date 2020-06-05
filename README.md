@@ -13,6 +13,9 @@ Speech Emotion Recognition, abbreviated as SER, is the act of attempting to reco
 Run the following commands on the terminal
 
 pip install librosa soundfile numpy sklearn pyaudio
+
 cd Desktop
+
 cd Music Database
+
 jupyter notebook
